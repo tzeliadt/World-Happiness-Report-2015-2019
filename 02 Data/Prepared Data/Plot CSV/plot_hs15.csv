@@ -1,0 +1,157 @@
+,Country,Happiness Score
+0,Switzerland,7.587
+1,Iceland,7.561
+2,Denmark,7.527
+3,Norway,7.522
+4,Canada,7.427
+5,Finland,7.406
+6,Netherlands,7.378
+7,Sweden,7.364
+8,New Zealand,7.286
+9,Australia,7.284
+10,Israel,7.278
+11,Costa Rica,7.226
+12,Austria,7.2
+13,Mexico,7.187
+14,United States,7.119
+15,Brazil,6.983
+16,Luxembourg,6.946
+17,Ireland,6.94
+18,Belgium,6.937
+19,United Arab Emirates,6.901
+20,United Kingdom,6.867
+21,Venezuela,6.81
+22,Singapore,6.798
+23,Panama,6.786
+24,Germany,6.75
+25,Chile,6.67
+26,Qatar,6.611
+27,France,6.575
+28,Argentina,6.574
+29,Czech Republic,6.505
+30,Uruguay,6.485
+31,Colombia,6.477
+32,Thailand,6.455
+33,Saudi Arabia,6.411
+34,Spain,6.329
+35,Malta,6.302
+36,Taiwan,6.298
+37,Kuwait,6.295
+38,Suriname,6.269
+39,Trinidad and Tobago,6.168
+40,El Salvador,6.13
+41,Guatemala,6.123
+42,Uzbekistan,6.003
+43,Slovakia,5.995
+44,Japan,5.987
+45,South Korea,5.984
+46,Ecuador,5.975
+47,Bahrain,5.96
+48,Italy,5.948
+49,Bolivia,5.89
+50,Moldova,5.889
+51,Paraguay,5.878
+52,Kazakhstan,5.855
+53,Slovenia,5.848
+54,Lithuania,5.833
+55,Nicaragua,5.828
+56,Peru,5.824
+57,Belarus,5.813
+58,Poland,5.791
+59,Malaysia,5.77
+60,Croatia,5.759
+61,Libya,5.754
+62,Russia,5.716
+63,Jamaica,5.709
+64,North Cyprus,5.695
+65,Cyprus,5.689
+66,Algeria,5.605
+67,Kosovo,5.589
+68,Turkmenistan,5.548
+69,Mauritius,5.477
+70,Hong Kong,5.474
+71,Estonia,5.429
+72,Indonesia,5.399
+73,Vietnam,5.36
+74,Turkey,5.332
+75,Kyrgyzstan,5.286
+76,Nigeria,5.268
+77,Bhutan,5.253
+78,Azerbaijan,5.212
+79,Pakistan,5.194
+80,Jordan,5.192
+81,Montenegro,5.192
+82,China,5.14
+83,Zambia,5.129
+84,Romania,5.124
+85,Serbia,5.123
+86,Portugal,5.102
+87,Latvia,5.098
+88,Philippines,5.073
+89,Somaliland Region,5.057
+90,Morocco,5.013
+91,Macedonia,5.007
+92,Mozambique,4.971
+93,Albania,4.959
+94,Bosnia and Herzegovina,4.949
+95,Lesotho,4.898
+96,Dominican Republic,4.885
+97,Laos,4.876
+98,Mongolia,4.874
+99,Swaziland,4.867
+100,Greece,4.857
+101,Lebanon,4.839
+102,Hungary,4.8
+103,Honduras,4.788
+104,Tajikistan,4.786
+105,Tunisia,4.739
+106,Palestinian Territories,4.715
+107,Bangladesh,4.694
+108,Iran,4.686
+109,Ukraine,4.681
+110,Iraq,4.677
+111,South Africa,4.642
+112,Ghana,4.633
+113,Zimbabwe,4.61
+114,Liberia,4.571
+115,India,4.565
+116,Sudan,4.55
+117,Haiti,4.518
+118,Congo (Kinshasa),4.517
+119,Nepal,4.514
+120,Ethiopia,4.512
+121,Sierra Leone,4.507
+122,Mauritania,4.436
+123,Kenya,4.419
+124,Armenia,4.35
+125,Botswana,4.332
+126,Myanmar,4.307
+127,Georgia,4.297
+128,Malawi,4.292
+129,Sri Lanka,4.271
+130,Cameroon,4.252
+131,Bulgaria,4.218
+132,Egypt,4.194
+133,Yemen,4.077
+134,Angola,4.033
+135,Mali,3.995
+136,Congo (Brazzaville),3.989
+137,Comoros,3.956
+138,Uganda,3.931
+139,Senegal,3.904
+140,Gabon,3.896
+141,Niger,3.845
+142,Cambodia,3.819
+143,Tanzania,3.781
+144,Madagascar,3.681
+145,Central African Republic,3.678
+146,Chad,3.667
+147,Guinea,3.656
+148,Ivory Coast,3.655
+149,Burkina Faso,3.587
+150,Afghanistan,3.575
+151,Rwanda,3.465
+152,Benin,3.34
+153,Syria,3.006
+154,Burundi,2.905
+155,Togo,2.839
