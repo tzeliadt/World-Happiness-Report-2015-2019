@@ -13,16 +13,16 @@ Visualization data can be viewed with [Tableau](https://public.tableau.com/app/p
  
 ## Tools
 Analysis was performed using Excel and Python. Within Python the following libraries were utilized:
-•	Pandas
-•	NumPy
-•	Os
-•	Matplotlib
-•	Plotly
-•	Scipy
-•	Seaborn
-•	Folium
-•	Sklearn
-•	Statsmodel
-•	JSON
-•	Datetime
-•	Quandl
+-Pandas
+-NumPy
+-Os
+-Matplotlib
+-Plotly
+-Scipy
+-Seaborn
+-Folium
+-Sklearn
+-Statsmodel
+-JSON
+-Datetime
+-Quandl
