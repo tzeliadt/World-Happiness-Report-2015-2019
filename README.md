@@ -12,19 +12,17 @@ The survey data is collected semiannual, annual, and biennial from various count
 Visualization data can be viewed with [Tableau](https://public.tableau.com/app/profile/tatum.zeliadt/viz/HappinessRankings2015-2019/Story1?publish=yes).
  
 ## Tools
-Analysis was performed using Excel and Python. 
-
-Within Python the following libraries were utilized:
-*Pandas
-*Numpy
-*Os
-*Matplotlib
-*Plotly
-*Scipy
-*Seaborn
-*Folium
-*Sklearn
-*Statsmodel
-*JSON
-*Datetime
-*Quandl
+Analysis was performed using Excel and Python. Within Python the following libraries were utilized:
+* Pandas
+* Numpy
+* Os
+* Matplotlib
+* Plotly
+* Scipy
+* Seaborn
+* Folium
+* Sklearn
+* Statsmodel
+* JSON
+* Datetime
+* Quandl
